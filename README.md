@@ -2,7 +2,7 @@
 
 # Hi, I'm Pralay Bajkhan 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=2E9EF7\&center=true\&vCenter=true\&width=600\&height=50\&lines=AI+%26+Machine+Learning+Graduate;Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Machine+Learning;Building+Data-Driven+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=2E9EF7\&center=true\&vCenter=true\&width=650\&height=50\&lines=AI+%26+Machine+Learning+Graduate;Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Machine+Learning;Building+Data-Driven+Solutions)](https://git.io/typing-svg)
 
 ### AI & Machine Learning Graduate | Data Analytics | Python | SQL
 
@@ -39,10 +39,10 @@ I enjoy building practical, data-driven applications that solve real-world probl
 ### 💻 Programming & Data
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
 </p>
 
 **Python • C • SQL • Pandas • NumPy**
@@ -50,9 +50,9 @@ I enjoy building practical, data-driven applications that solve real-world probl
 ### 🤖 AI & Machine Learning
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45"/>
 </p>
 
 **Machine Learning • Scikit-Learn • TensorFlow • PyTorch • NLP • Generative AI**
@@ -60,8 +60,7 @@ I enjoy building practical, data-driven applications that solve real-world probl
 ### 📊 Analytics & Visualization
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45" height="45"/>
 </p>
 
 **Power BI • Excel • Matplotlib • Seaborn • Data Analysis • Data Visualization**
@@ -69,11 +68,11 @@ I enjoy building practical, data-driven applications that solve real-world probl
 ### 🌐 Development & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
 </p>
 
 **FastAPI • React • Vite • Git • GitHub • VS Code • Jupyter • Google Colab**
@@ -228,17 +227,18 @@ Artificial Intelligence • Machine Learning • Data Science • Data Analytics
 
 ---
 
-## 📌 GitHub Activity
+## 📌 GitHub Overview
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/Pralay567?style=for-the-badge\&logo=github\&label=Followers)
+[![GitHub Followers](https://img.shields.io/github/followers/Pralay567?style=for-the-badge\&logo=github\&label=Followers)](https://github.com/Pralay567?tab=followers)
 
-![GitHub stars](https://img.shields.io/github/stars/Pralay567?style=for-the-badge\&logo=github\&label=Total%20Stars)
+[![GitHub Stars](https://img.shields.io/github/stars/Pralay567?style=for-the-badge\&logo=github\&label=Total%20Stars)](https://github.com/Pralay567?tab=repositories)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pralay567\&label=Profile%20Views\&style=for-the-badge)
+[![Profile Views](https://komarev.com/ghpvc/?username=Pralay567\&label=Profile%20Views\&style=for-the-badge)](https://github.com/Pralay567)
 
 </div>
+
 ---
 
 <div align="center">
@@ -266,8 +266,6 @@ Artificial Intelligence • Machine Learning • Data Science • Data Analytics
 ---
 
 <div align="center">
-
-### 💡 Building with data. Learning with AI. Creating practical solutions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pralay567\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
