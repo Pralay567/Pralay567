@@ -239,23 +239,6 @@ Artificial Intelligence • Machine Learning • Data Science • Data Analytics
 ![Profile Views](https://komarev.com/ghpvc/?username=Pralay567\&label=Profile%20Views\&style=for-the-badge)
 
 </div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pralay-bajkhan-4892a4200)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2E9EF7?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://spiffy-youtiao-009ed2.netlify.app/)
-
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:pralaybajkhan116@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Pralay567-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Pralay567)
-
-</div>
-
 ---
 
 <div align="center">
