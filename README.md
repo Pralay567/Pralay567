@@ -220,37 +220,47 @@ Artificial Intelligence • Machine Learning • Data Science • Data Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pralay567&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pralay's GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pralay567&show_icons=true&theme=tokyonight&hide_border=true" alt="Pralay's GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pralay567&layout=compact&theme=tokyonight&hide_border=true" alt="Pralay's Top Languages" height="165"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pralay567&theme=tokyonight&hide_border=true" alt="Pralay's GitHub Streak" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pralay567&layout=compact&theme=tokyonight&hide_border=true" alt="Pralay's Top Languages" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📌 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pralay567&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+![GitHub followers](https://img.shields.io/github/followers/Pralay567?style=for-the-badge\&logo=github\&label=Followers)
+
+![GitHub stars](https://img.shields.io/github/stars/Pralay567?style=for-the-badge\&logo=github\&label=Total%20Stars)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Pralay567\&label=Profile%20Views\&style=for-the-badge)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pralay567&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pralay-bajkhan-4892a4200)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2E9EF7?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://spiffy-youtiao-009ed2.netlify.app/)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:pralaybajkhan116@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Pralay567-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Pralay567)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Building with data. Learning with AI. Creating practical solutions.
 
 </div>
 
