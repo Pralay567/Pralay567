@@ -2,17 +2,16 @@
 
 # Hi, I'm Pralay Bajkhan 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=2E9EF7\&center=true\&vCenter=true\&width=500\&lines=AI+%26+Machine+Learning+Graduate;Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Machine+Learning;Building+Data-Driven+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=2E9EF7\&center=true\&vCenter=true\&width=600\&height=50\&lines=AI+%26+Machine+Learning+Graduate;Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Machine+Learning;Building+Data-Driven+Solutions)](https://git.io/typing-svg)
 
 ### AI & Machine Learning Graduate | Data Analytics | Python | SQL
 
-🎓 B.Tech CSE (AI & ML) • Brainware University • CGPA: **8.87/10**
-📍 West Bengal, India
-💼 Open to **Entry-Level Opportunities & Collaborations**
+🎓 **B.Tech CSE (AI & ML)** • Brainware University • **CGPA: 8.87/10**
+📍 West Bengal, India • 💼 Open to **Entry-Level Opportunities & Collaborations**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pralay-bajkhan-4892a4200)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pralay-bajkhan-4892a4200)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2E9EF7?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://spiffy-youtiao-009ed2.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:pralaybajkhan116@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:pralaybajkhan116@gmail.com)
 
 </div>
 
@@ -31,7 +30,7 @@ I enjoy building practical, data-driven applications that solve real-world probl
 * 📈 Creating dashboards and visualizations with **Power BI**
 * 🧠 Exploring **NLP, Generative AI & Predictive Modeling**
 * ⚡ Building and deploying practical AI-powered applications
-* 🔍 Currently looking for opportunities to apply my skills to real-world problems
+* 🔍 Looking for opportunities to apply my skills to real-world problems
 
 ---
 
@@ -40,10 +39,10 @@ I enjoy building practical, data-driven applications that solve real-world probl
 ### 💻 Programming & Data
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
 </p>
 
 **Python • C • SQL • Pandas • NumPy**
@@ -51,9 +50,9 @@ I enjoy building practical, data-driven applications that solve real-world probl
 ### 🤖 AI & Machine Learning
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45"/>
 </p>
 
 **Machine Learning • Scikit-Learn • TensorFlow • PyTorch • NLP • Generative AI**
@@ -61,9 +60,8 @@ I enjoy building practical, data-driven applications that solve real-world probl
 ### 📊 Analytics & Visualization
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI/master/images/PowerBI-Icon-FullColor.svg" alt="Power BI" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/>
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="65" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="45" height="45"/>
 </p>
 
 **Power BI • Excel • Matplotlib • Seaborn • Data Analysis • Data Visualization**
@@ -71,11 +69,11 @@ I enjoy building practical, data-driven applications that solve real-world probl
 ### 🌐 Development & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
 </p>
 
 **FastAPI • React • Vite • Git • GitHub • VS Code • Jupyter • Google Colab**
@@ -200,7 +198,6 @@ AI-powered application providing **constituency information, election guidance, 
 🎓 **CGPA: 8.87/10**
 
 **Focus Areas:**
-
 Artificial Intelligence • Machine Learning • Data Science • Data Analytics • NLP • Generative AI • Python • SQL
 
 ---
@@ -223,15 +220,17 @@ Artificial Intelligence • Machine Learning • Data Science • Data Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pralay567&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pralay567&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pralay's GitHub Stats" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pralay567&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pralay567&layout=compact&theme=tokyonight&hide_border=true" alt="Pralay's Top Languages" height="165"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pralay567&theme=tokyonight&hide_border=true" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pralay567&theme=tokyonight&hide_border=true" alt="Pralay's GitHub Streak" width="400"/>
 
 </div>
 
@@ -261,13 +260,13 @@ Artificial Intelligence • Machine Learning • Data Science • Data Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pralay-bajkhan-4892a4200)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pralay-bajkhan-4892a4200)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2E9EF7?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://spiffy-youtiao-009ed2.netlify.app/)
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:pralaybajkhan116@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:pralaybajkhan116@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Pralay567-black?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Pralay567)
+[![GitHub](https://img.shields.io/badge/GitHub-Pralay567-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Pralay567)
 
 </div>
 
